@@ -1,29 +1,27 @@
-# Bem-vindo ao Meu Espaço de Desenvolvimento de Jogos! 🎮
+# Welcome to My Game Development Space! 🎮
 
-Olá, eu sou Miguel, um desenvolvedor de jogos apaixonado por criar experiências envolventes e divertidas.
-Este é o meu espaço onde compartilho e desenvolvo jogos utilizando as plataformas Unity e GameMaker. Atualmente, estou explorando novas ideias e oportunidades de colaboração.
+Hello, I'm Miguel, a game developer passionate about creating engaging and fun experiences. This is my space where I share and develop games using the Unity and GameMaker platforms. Currently, I am exploring new ideas and collaboration opportunities.
 
-## Sobre Mim
+## About Me
 
-- 👨‍💻 Desenvolvedor de Jogos
-- 🕹️ Especializado em Unity e GameMaker
-- 🌐 
+- 👨‍💻 Game Developer
+- 🕹️ Specialized in Unity and GameMaker
 
-## Colaboração
+## Collaboration
 
-Atualmente, estou aberto a colaborações e novos projetos. Se você é um desenvolvedor, designer, ou entusiasta de jogos e está interessado em colaborar, fique à vontade para entrar em contato. Juntos, podemos criar algo incrível!
+I am currently open to collaborations and new projects. If you are a developer, designer, or game enthusiast interested in collaborating, feel free to get in touch. Together, we can create something amazing!
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
 - Unity
 - GameMaker
 - C++
 
-## Como Entrar em Contato
+## How to Contact Me
 
 - 📧 Email: rinkicontato@gmail.com
-- 🐦 @RinkiMiguel
+- 🐦 Twitter: @RinkiMiguel
 
-Fique à vontade para explorar meus repositórios e acompanhar meu progresso. Estou ansioso para conectar-me com a comunidade de desenvolvedores de jogos!
+Feel free to explore my repositories and follow my progress. I'm excited to connect with the game development community!
 
-**Vamos criar algo extraordinário juntos! 🚀**
+**Let's create something extraordinary together! 🚀**
